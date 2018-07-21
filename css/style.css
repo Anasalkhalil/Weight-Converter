@@ -1,8 +1,17 @@
 body {
-  background: gray;
+  background: #616161;
   margin-top: 70px;
   color: #fff; }
 
 .card {
-  margin: 5px 0px;
+  margin: 2px 0px;
   padding: 5px; }
+
+.card-primary {
+  background: #023eee; }
+
+.card-danger {
+  background: #ee023d; }
+
+.card-success {
+  background: #4CAF50; }
